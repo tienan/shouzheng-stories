@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tienan.github.io/shouzheng-stories/sitemap.xml

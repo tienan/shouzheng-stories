@@ -1,0 +1,28 @@
+{
+  "name": "守正异闻录",
+  "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
+  "url": "https://tienan.github.io/shouzheng-stories",
+  "updated": "2026-11-04",
+  "book": {
+    "title": "明治未明",
+    "slug": "meiji",
+    "cover": "assets/meiji-cover.png",
+    "status": "连载中",
+    "chapters": [
+      {
+        "id": "prologue",
+        "label": "序",
+        "title": "引言",
+        "file": "content/meiji/prologue.md",
+        "description": "一份没写完的停工说明，和一个不属于他的清晨。"
+      },
+      {
+        "id": "01",
+        "label": "01",
+        "title": "第一节　炭火",
+        "file": "content/meiji/01-charcoal.md",
+        "description": "一个送炭的孩子，一笔迟迟结不清的钱，一道变了意思的口谕。"
+      }
+    ]
+  }
+}
