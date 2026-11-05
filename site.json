@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -22,6 +22,13 @@
         "title": "第一节　炭火",
         "file": "content/meiji/01-charcoal.md",
         "description": "一个送炭的孩子，一笔迟迟结不清的钱，一道变了意思的口谕。"
+      },
+      {
+        "id": "02",
+        "label": "02",
+        "title": "第二节　回话",
+        "file": "content/meiji/02-reply.md",
+        "description": "召见终于传到了。清吉带着旧账回来，先问的却是另一件事。"
       }
     ]
   }
