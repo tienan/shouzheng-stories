@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -36,6 +36,13 @@
         "title": "第三节　钱从哪里来",
         "file": "content/meiji/03-where-money-comes-from.md",
         "description": "一包钱已有去处。守正追问御所用度，才知道还有谁在垫钱。"
+      },
+      {
+        "id": "04",
+        "label": "04",
+        "title": "第四节　等钱的人",
+        "file": "content/meiji/04-people-waiting-for-payment.md",
+        "description": "日落前只筹到一部分炭钱。来讨纸的阿槙和另一家炭铺，也在等御所的答复。"
       }
     ]
   }
