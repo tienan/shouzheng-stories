@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -43,6 +43,13 @@
         "title": "第四节　等钱的人",
         "file": "content/meiji/04-people-waiting-for-payment.md",
         "description": "日落前只筹到一部分炭钱。来讨纸的阿槙和另一家炭铺，也在等御所的答复。"
+      },
+      {
+        "id": "05",
+        "label": "05",
+        "title": "第五节　旧规矩",
+        "file": "content/meiji/05-old-rules.md",
+        "description": "清吉家按约收到了两包钱。西边炭铺却说，今天的炭，一筐也须现结。"
       }
     ]
   }
