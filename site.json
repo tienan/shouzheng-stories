@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -57,6 +57,13 @@
         "title": "第六节　一道错令",
         "file": "content/meiji/06-a-mistaken-order.md",
         "description": "守正下令，付不出钱就别收货。先前受约送油的弥助到了宫门，问这一趟脚钱该跟谁领。"
+      },
+      {
+        "id": "07",
+        "label": "07",
+        "title": "第七节　还账",
+        "file": "content/meiji/07-repaying-debts.md",
+        "description": "弥助等来一句回话。等两笔钱都递到人手里，青木又被问住了。"
       }
     ]
   }
