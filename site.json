@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-16",
+  "updated": "2026-11-17",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -71,6 +71,13 @@
         "title": "第八节　宫门",
         "file": "content/meiji/08-palace-gate.md",
         "description": "阿槙第四次到门上问钱。两班人当面交了一回话，黄昏时，门外又来了一位客人。"
+      },
+      {
+        "id": "09",
+        "label": "09",
+        "title": "第九节　谁来讲",
+        "file": "content/meiji/09-who-gets-to-speak.md",
+        "description": "来客亲口认下房钱，带来的纸上却写着「御所要用」。青木依约出门回话，又听到一个问题。"
       }
     ]
   }
