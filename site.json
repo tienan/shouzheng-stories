@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-18",
+  "updated": "2026-11-19",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -85,6 +85,13 @@
         "title": "第十节　后间",
         "file": "content/meiji/10-the-back-room.md",
         "description": "新三和屋主来问后间能否腾还。话还没说完，经手租房的人到了宫门。"
+      },
+      {
+        "id": "11",
+        "label": "11",
+        "title": "第十一节　引荐人",
+        "file": "content/meiji/11-the-introducer.md",
+        "description": "中山来听两间房的经过。去二本松的人带回消息，引荐者也带来了几张纸。"
       }
     ]
   }
