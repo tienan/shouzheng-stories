@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -99,6 +99,13 @@
         "title": "第十二节　半日",
         "file": "content/meiji/12-half-a-day.md",
         "description": "阿槙收到一包工钱。托话的人来到了中山宅，开口说他午后得走。"
+      },
+      {
+        "id": "13",
+        "label": "13",
+        "title": "第十三节　走不开的人",
+        "file": "content/meiji/13-those-who-cannot-come.md",
+        "description": "六藏伤了脚，阿登决定自己去领钱。新三等到一包房钱，也定下搬走的日子。"
       }
     ]
   }
