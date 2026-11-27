@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -113,6 +113,13 @@
         "title": "第十四节　作保",
         "file": "content/meiji/14-guarantor.md",
         "description": "阿绢等来一句不能作保。新住进前间的客人，却愿意拿出一笔米钱。"
+      },
+      {
+        "id": "15",
+        "label": "15",
+        "title": "第十五节　自荐",
+        "file": "content/meiji/15-self-recommendation.md",
+        "description": "橘带着两只钱袋再来，纸上荐的却是自己。松井也有一番话要说。"
       }
     ]
   }
