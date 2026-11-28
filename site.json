@@ -2,7 +2,7 @@
   "name": "守正异闻录",
   "description": "以守正为主角的原创历史穿越小说。一个普通人，走进陌生时代，在具体的人与事中检验自己的信念。",
   "url": "https://tienan.github.io/shouzheng-stories",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "book": {
     "title": "明治未明",
     "slug": "meiji",
@@ -120,6 +120,13 @@
         "title": "第十五节　自荐",
         "file": "content/meiji/15-self-recommendation.md",
         "description": "橘带着两只钱袋再来，纸上荐的却是自己。松井也有一番话要说。"
+      },
+      {
+        "id": "16",
+        "label": "16",
+        "title": "第十六节　一坛油",
+        "file": "content/meiji/16-one-jar-of-oil.md",
+        "description": "橘终于见到守正。第一次同行采买，一坛油还没出铺，账上便多出了一项。"
       }
     ]
   }
